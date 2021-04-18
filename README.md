@@ -1,6 +1,5 @@
 # 이력서(2021.04)
 ## 소개
---
 이름. 탁민주
 Email. takminjoo@gmail.com
 Phone. 010-9608-6108
