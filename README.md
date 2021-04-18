@@ -19,7 +19,6 @@ GitHub. https://github.com/min-99
 ```
 
 ## 회사 경력
---
 
 ### [도너스](https://www.donus.org/)
 - 비영리조직을 위한 고객 데이터 플랫폼
@@ -82,7 +81,7 @@ Full Stack Engineer (2018.03 ~ 재직중)
 + 2020년 상반기 주임 연구원으로 진급
 
 
--
+--
 ### [글로벌 휴머니즘](https://ghsoft.tistory.com/)
 - 하이브리드/네이티브 어플 제작, 안드로이드 IOS 맞춤기획 서비스 스타트업
 
@@ -117,7 +116,6 @@ Full Stack Engineer (2017.07-20.18.02)
 
 
 ## 다른 경험
---
 - ElasticSearch STUDY ([개인공부](https://www.notion.so/min99/Elasticsearch-a17fc467b8eb4facb2bfa16cd87ba7b1))
   => 이론 공부 진행 + 개발 테스트 진행 + 회사 컨플문서로 공유
 - 클린코드, 올바른 코드리뷰 대해서 문서 읽기
@@ -126,5 +124,4 @@ Full Stack Engineer (2017.07-20.18.02)
 - Flutter로 소모임 앱 구현(개인 프로젝트)
 
 ## 학력
---
 2015.03 ~ 2018.02 미림여자정보과학고등학교(마이스터고) 뉴미디어 솔루션과 [수상내역, 프로젝트 경험 보기](https://drive.google.com/file/d/1uAqFbGDu6q4HB5kosalGRQxLC8u4TVb7/view?usp=sharing)
