@@ -91,7 +91,7 @@ Full Stack Engineer (2018.03 ~ 재직중)
 + 2020년 상반기 우수사원
 + 2020년 상반기 주임 연구원으로 진급
 ```
-
+<img src="https://github.com/min-99/resume/blob/main/image/KakaoTalk_20200903_231700691.jpg" width="80" height="150"/>
 
 --
 ### [글로벌 휴머니즘](https://ghsoft.tistory.com/)
@@ -133,6 +133,7 @@ Full Stack Engineer (2017.07-20.18.02)
 - 네트워크 관리사 2급 필기
 - slack에 봇 만드는 프로젝트 진행 (2인 프로젝트, [WBS](https://docs.google.com/spreadsheets/d/1oizG5BMR7-lRl6eyKbgpLrzc0LA2wZYu0ot8DzZ-kcA/edit?usp=sharing))
 - Flutter로 소모임 앱 구현(개인 프로젝트)
+<img src="https://github.com/min-99/resume/blob/main/image/Screenshot_1577447752.png" width="80" height="150"/>
 
 ## 학력
 2015.03 ~ 2018.02 미림여자정보과학고등학교(마이스터고) 뉴미디어 솔루션과 [수상내역, 프로젝트 경험 보기](https://drive.google.com/file/d/1uAqFbGDu6q4HB5kosalGRQxLC8u4TVb7/view?usp=sharing)
