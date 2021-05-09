@@ -59,7 +59,7 @@ Full Stack Engineer (2018.03 ~ 재직중)
 - (본인인증)모듈 도입, 디아모(D'Amo) 모듈 유지보수
 
 #### BOX(SPA 프로젝트, 메인 담당, [예시 페이지](https://box.donus.org/box/peoplepower21/2020))
-- 스스로 공부하고, 스스로 구촉한 프로젝트
+- 스스로 공부하고, 스스로 구축한 프로젝트
 - 처음에는 CSR로 .Net + React방식으로 구현했지만, 공유기능(SEO)을 위해서 SSR로 node(koa) + React 방식으로 구현하였습니다
 - DevOps(Azure) 환경 구축
 - Webpack 설정에 대한 이해 상승
